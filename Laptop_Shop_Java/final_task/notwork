@@ -1,0 +1,13 @@
+в папке не работает, выдаёт ошибку
+PS D:\GeekBrain\Laptop_Shop_Java\final_task> javac *.java && java Main
+Note: Main.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Error: Could not find or load main class Main
+Caused by: java.lang.NoClassDefFoundError: Main (wrong name: final_task/Main)
+
+package final_task; в файлах есть
+
+PS D:\GeekBrain\Laptop_Shop_Java\final_task> java Main
+Error: Could not find or load main class Main
+Caused by: java.lang.NoClassDefFoundError: Main (wrong name: final_task/Main)
+PS D:\GeekBrain\Laptop_Shop_Java\final_task> 

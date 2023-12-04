@@ -1,0 +1,20 @@
+Brand: HP, RAM: 8GB, Storage: 256GB SSD, OS: Windows 10, Color: Silver
+Brand: Dell, RAM: 16GB, Storage: 1TB HDD, OS: Ubuntu, Color: Black
+Brand: Lenovo, RAM: 12GB, Storage: 512GB SSD, OS: Windows 11, Color: Gray
+Brand: ASUS, RAM: 8GB, Storage: 128GB SSD, OS: Windows 10, Color: Blue
+Brand: Acer, RAM: 4GB, Storage: 500GB HDD, OS: Windows 7, Color: Red
+Brand: Apple, RAM: 16GB, Storage: 512GB SSD, OS: macOS, Color: Space Gray
+Brand: MSI, RAM: 32GB, Storage: 1TB SSD, OS: Windows 10, Color: Black
+Brand: Toshiba, RAM: 8GB, Storage: 256GB SSD, OS: Windows 10, Color: Silver
+Brand: Huawei, RAM: 16GB, Storage: 512GB SSD, OS: Windows 11, Color: Rose Gold
+Brand: Samsung, RAM: 12GB, Storage: 1TB SSD, OS: Android, Color: White
+Brand: Sony, RAM: 8GB, Storage: 256GB SSD, OS: Windows 10, Color: Blue
+Brand: LG, RAM: 16GB, Storage: 512GB SSD, OS: Chrome OS, Color: Black
+Brand: Microsoft, RAM: 8GB, Storage: 128GB SSD, OS: Windows 10, Color: Platinum
+Brand: Fujitsu, RAM: 8GB, Storage: 256GB SSD, OS: Windows 10, Color: Silver
+Brand: Google, RAM: 16GB, Storage: 256GB SSD, OS: Chrome OS, Color: White
+Brand: Razer, RAM: 32GB, Storage: 1TB SSD, OS: Windows 11, Color: Black
+Brand: Alienware, RAM: 64GB, Storage: 2TB SSD, OS: Windows 10, Color: Lunar Light
+Brand: Panasonic, RAM: 8GB, Storage: 256GB SSD, OS: Windows 10, Color: Silver
+Brand: Xiaomi, RAM: 16GB, Storage: 512GB SSD, OS: MIUI, Color: Gold
+Brand: OnePlus, RAM: 12GB, Storage: 256GB SSD, OS: OxygenOS, Color: Red
